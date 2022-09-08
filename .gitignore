@@ -1,0 +1,4 @@
+data/
+minio-data/
+venv/
+.git
